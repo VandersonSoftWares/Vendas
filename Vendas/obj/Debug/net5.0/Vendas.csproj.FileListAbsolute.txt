@@ -1,0 +1,15 @@
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\Vendas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfoInputs.cache
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfo.cs
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\Vendas.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\Vendas.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\Vendas.RazorAssemblyInfo.cache
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\Vendas.RazorAssemblyInfo.cs
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\scopedcss\bundle\Vendas.styles.css
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\staticwebassets\Vendas.StaticWebAssets.Manifest.cache
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\Vendas.TagHelpers.input.cache
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\Vendas.TagHelpers.output.cache
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\Vendas.dll
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\refint\Vendas.dll
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\Vendas.pdb
+D:\Projetos C#\Vendas\Vendas\obj\Debug\net5.0\Vendas.RazorCoreGenerate.cache
